@@ -1,4 +1,4 @@
-import { CloseOutlined, ShoppingCartOutlined } from '@material-ui/icons'
+import { ShoppingCartOutlined } from '@material-ui/icons'
 import React from 'react'
 import {Container, Icon, Close,SidebarWrapper,
 SidebarBtnWrap,SidebarMenu,SidebarRoute,SidebarLinks} from './SidebarElements'
